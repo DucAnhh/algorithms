@@ -1,5 +1,5 @@
 class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    def topKFrequent(self, nums, k: int):
         hashlist = {} # create hashmap using dict
         for i in nums:
             if i not in hashlist: 
