@@ -1,5 +1,5 @@
 # Algorithms
-1. Python Beginning: All problems can be found in [here](https://neetcode.io/)
+## 1. Python Beginning: All problems can be found in [here](https://neetcode.io/)
 - Array and Hashing:
     - Valid Anagram (e)
     - Contains Duplicate (e)
