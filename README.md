@@ -16,7 +16,12 @@
     - Container with Most Water (m)
 - Sliding Window:
     - Best Time to Buy and Sell Stock (e)
+    - Longest Substring without Repeating Characters (m)
+    - Longest Repeating Character Replacement (m)
+    - Permutation in String (m)
 - Stack:
     - Valid Parentheses (e)
+    - Min Stack (m)
+    - Evaluate Reverse Polish Notation (m)
 - Binary Search:
     - Binary Search (e)
