@@ -1,5 +1,6 @@
 # Algorithms
 ## 1. Python Beginning: All problems can be found in [here](https://neetcode.io/)
+- Total: 25/150 problems 
 - Array and Hashing:
     - Valid Anagram (e)
     - Contains Duplicate (e)
@@ -23,5 +24,10 @@
     - Valid Parentheses (e)
     - Min Stack (m)
     - Evaluate Reverse Polish Notation (m)
+    - Generate Parentheses (m)
+    - Daily Temperatures (m)
+    - Car Fleet (m)
 - Binary Search:
     - Binary Search (e)
+    - Search a 2D Matrix (m)
+    - Koko Eating Bananas (m)
