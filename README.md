@@ -31,3 +31,9 @@
     - Binary Search (e)
     - Search a 2D Matrix (m)
     - Koko Eating Bananas (m)
+    - Search Rotated Sorted Array(m)
+    - Find Minimum in Rotated Sorted Array(m)
+    - Time Based Key-Value Store(m)
+- Linked List
+    - Reverse Linked List(e)
+    - Merge Two Linked List(e)
