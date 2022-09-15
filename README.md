@@ -1,6 +1,6 @@
 # Algorithms
 ## 1. Python Beginning: All problems can be found in [here](https://neetcode.io/)
-- Total: 25/150 problems 
+- Total: 35/150 problems 
 - Array and Hashing:
     - Valid Anagram (e)
     - Contains Duplicate (e)
@@ -37,3 +37,8 @@
 - Linked List
     - Reverse Linked List(e)
     - Merge Two Linked List(e)
+    - Reoder List (m)
+    - Remove Nth Node from End of List (m)
+    - Copy List with Random Pointer (m)
+    - Add Two Numbers (m)
+    - Linked List Cycle (e)
